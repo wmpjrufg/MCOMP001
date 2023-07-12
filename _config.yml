@@ -6,3 +6,17 @@ url: https://just-the-docs.github.io
 
 aux_links:
   teste: https://github.com/just-the-docs/just-the-docs-template
+
+callouts:
+  warning:
+    title: Warning
+    color: yellow-000
+    opacity: 0.3
+  highlight:
+    title: highlight
+    color: green-000
+    opacity: 0.3
+  note:
+    title: note
+    color: red-000
+    opacity: 0.3
