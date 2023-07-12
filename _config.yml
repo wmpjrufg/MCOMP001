@@ -7,16 +7,32 @@ url: https://just-the-docs.github.io
 aux_links:
   teste: https://github.com/just-the-docs/just-the-docs-template
 
+color_scheme: nil
+
+callouts_level: quiet # or loud
 callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
   warning:
     title: Warning
-    color: yellow-000
-    opacity: 0.3
-  highlight:
-    title: highlight
-    color: green-000
-    opacity: 0.3
-  note:
-    title: note
-    color: red-000
-    opacity: 0.3
+    color: red
+  
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a> <a href=\"https://www.netlify.com/\">This site is powered by Netlify.</a>"
