@@ -12,10 +12,11 @@ Nesta etapa que chamaremos pelo código <i>MCOMP1</i> será destinado um espaço
 </p>
 
 <ol>
-  <li>Introdução à lógica</li>
-  <li>Expressões e operadores</li>
-  <li>Estrutras de controle</li>
-  <li>Estrutras homogêneas</li>
-  <li>Estrutras especiais</li>
-  <li>Manipulação de arquivos</li>
+    <li><a href="https://wmpjrufg.github.io/MCOMP001/001-0.html">Introdução à lógica</a>;</li>
+    <li><a href="https://wmpjrufg.github.io/MCOMP001/002-0.html">Expressões e operadores</a>;</li>
+    <li><a href="https://wmpjrufg.github.io/MCOMP001/003-0.html">Estrutras de controle</a>;</li>
+    <li><a href="https://wmpjrufg.github.io/MCOMP001/004-0.html">Estrutras homogêneas</a>;</li>
+    <li><a href="https://wmpjrufg.github.io/MCOMP001/005-0.html">Estrutras especiais</a>;</li>
+    <li><a href="https://wmpjrufg.github.io/MCOMP001/006-0.html">Manipulação de arquivos</a>.</li>
 </ol>
+
