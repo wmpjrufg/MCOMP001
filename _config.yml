@@ -14,16 +14,16 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: importante
+    title: Important
     color: blue
   new:
-    title: novo
+    title: New
     color: green
   note:
-    title: nota
+    title: Note
     color: purple
   warning:
-    title: aviso
+    title: Warning
     color: red
   
 kramdown:
