@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <p align = "justify">
-Este é o curso de Métodos Computacionais parte 1 e tem como objetivo central oferecer aos alunos uma introdução a programação em `python` que será empregada ao longo de todo o curso.<br><br>
+Este é o curso de Métodos Computacionais parte 1 e tem como objetivo central oferecer aos alunos uma introdução a programação em <b>Python</b> que será empregada ao longo de todo o curso.<br><br>
 
 Este curso é ministrado pelo professor <a href="http://lattes.cnpq.br/2268506213083114">Wanderlei Junior</a> e também foi construído com ajuda de diversos alunos de grupos de pesquisa e orientação.<br><br>
 
@@ -19,6 +19,7 @@ Nesta etapa que chamaremos pelo código <i>MCOMP1</i> será destinado um espaço
     <li><a href="https://wmpjrufg.github.io/MCOMP001/004-0.html">Estrutras homogêneas</a>;</li>
     <li><a href="https://wmpjrufg.github.io/MCOMP001/005-0.html">Estrutras especiais</a>;</li>
     <li><a href="https://wmpjrufg.github.io/MCOMP001/006-0.html">Manipulação de arquivos</a>.</li>
+    <li><a href="https://wmpjrufg.github.io/MCOMP001/007-0.html">Paradigmas</a>.</li>
 </ol>
 
 <p align = "justify">
@@ -28,14 +29,12 @@ Vamos iniciar o curso pela instalação da linguagem de programação e dos ambi
 <ol>
     <li><a href="https://python.org.br/instalacao-windows/">Python 3 ou superior</a>;</li>
     <li><a href="https://code.visualstudio.com">Visual Studio Code</a>;</li>
-    <li><a href="https://git-scm.com">Git</a>;</li>
-    <li>Abrir uma conta no <a href="https://github.com">GitHub</a>.</li>
 </ol>
 
 <p align = "justify">
 Com todas as ferramentas instaladas e testadas iniciamos então o curso.
 <br><br>
-Pode-se dizer que o Python é uma liguagem meio compilada e meio interpretada. A parte da compilação fica escondida do programador. 
+Pode-se dizer que o Python é uma liguagem meio compilada e meio interpretada. A parte da compilação fica escondida do programador.
 </p>
 
 {: .highlight-title }
@@ -45,4 +44,6 @@ Pode-se dizer que o Python é uma liguagem meio compilada e meio interpretada. A
 >
 > A interpretação, por outro lado, é um processo em que o código fonte é lido linha por linha e executado diretamente pelo interpretador em tempo de execução. O interpretador traduz cada instrução ou bloco de instruções para código de máquina em tempo real e executa-o imediatamente.
 
-
+<p align = "justify">
+Além disso vale comentar que o Python é uma linguagem de tipagem dinâmica e forte....
+</p>
