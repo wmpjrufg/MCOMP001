@@ -27,8 +27,7 @@ Vamos iniciar o curso pela instalação da linguagem de programação e dos ambi
 </p>
 
 <ol>
-    <li><a href="https://python.org.br/instalacao-windows/">Python 3 ou superior</a>;</li>
-    <li><a href="https://code.visualstudio.com">Visual Studio Code</a>;</li>
+    <li><a href="https://www.anaconda.com/download" target = "_blank" rel = "noopener noreferrer">Anaconda</a>;</li>
 </ol>
 
 <p align = "justify">
