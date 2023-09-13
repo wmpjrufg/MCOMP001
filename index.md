@@ -7,7 +7,7 @@ nav_order: 1
 <p align = "justify">
 Este é o curso de Métodos Computacionais parte 1 e tem como objetivo central oferecer aos alunos uma introdução a programação em <b>Python</b> que será empregada ao longo de todo o curso.<br><br>
 
-Este curso é ministrado pelo professor <a href="http://lattes.cnpq.br/2268506213083114">Wanderlei Junior</a> e também foi construído com ajuda de diversos alunos de grupos de pesquisa e orientação.<br><br>
+Este curso é ministrado pelo professor <a href="http://lattes.cnpq.br/2268506213083114" target = "_blank" rel = "noopener noreferrer">Wanderlei Junior</a> e também foi construído com ajuda de diversos alunos de grupos de pesquisa e orientação.<br><br>
 
 Nesta etapa que chamaremos pelo código <i>MCOMP1</i> será destinado um espaço para o seguinte conteúdo:
 </p>
@@ -32,8 +32,10 @@ Vamos iniciar o curso pela instalação da linguagem de programação e dos ambi
 
 <p align = "justify">
 Com todas as ferramentas instaladas e testadas iniciamos então o curso.
-<br><br>
-Pode-se dizer que o Python é uma liguagem meio compilada e meio interpretada. A parte da compilação fica escondida do programador.
+</p>
+
+<p align = "justify">
+Pode-se dizer que o Python é uma liguagem meio compilada e meio interpretada. A parte da compilação fica escondida do programador. Não iremos abordar isso no curso.
 </p>
 
 {: .highlight-title }
