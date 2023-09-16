@@ -52,11 +52,11 @@ A <a href="#fig12">Figura 1.2</a> apresenta uma imagem da posição da IDE noteb
 <h2>Um pouco sobre o uso da IDE notebook Jupyter</h2>
 
 <p align = "justify">
-O notebook Jupyter é muito parecido com um caderno digital. Ele permite que você faça seus códigos e tambpem comentários usando a linguagem Markdown. Você pode acessar o conteúdo de Mayer e Zeviani <a href="#ref1">[1]</a> para entender um pouco do funcionamento desta linguagem de marcação. 
+O notebook Jupyter é muito parecido com um caderno digital. Ele permite que você faça seus códigos e tambpem comentários usando a linguagem Markdown. Você pode acessar o conteúdo de <a href="http://cursos.leg.ufpr.br/prr/capMarkdown.html" target = "_blank" rel = "noopener noreferrer">Mayer e Zeviani</a> <a href="#ref1">[1]</a> para entender um pouco do funcionamento desta linguagem de marcação. 
 </p>
 
 <p align = "justify">
-Ao abrir o ambiente notebook Jupyter para criarmos 
+Ao abrir o ambiente notebook Jupyter podemos criar um novo notebook conforme indicação na <a href="#fig13">Figura 1.3</a> e então poderemos utilizar a linguagem Python.
 </p>
 
 <p align = "left" id = "fig13"><b>Figura 1.3</b> Tela inicial notebook Jupyter.</p>
