@@ -133,3 +133,10 @@ TypeError: can only concatenate str (not "int") to str
         </tr>
     </tbody>
 </table>
+
+{: .highlight }
+> Como citar
+> 
+> PEREIRA JUNIOR, Wanderlei Malaquias; SEABRA, Eduardo Veloso Manhães; DE OLIVEIRA, Jessyca Batista Marques; RODRIGUES, Murilo Carneiro. Python: Introdução a linguagem. 1. ed. Catalão, 2023. (Curso de Python). Disponível em: <10.5281/zenodo.8352294>.
+
+
