@@ -16,7 +16,7 @@ Nesta etapa que chamaremos pelo código <i>MCOMP1</i> será destinado um espaço
 
 <table>
   <tr>
-    <td style="width:70%;">
+    <td style = "width:70%;">
         <ol>
             <li>Introdução à lógica;</li>
             <li>Expressões e operadores;</li>
@@ -27,7 +27,7 @@ Nesta etapa que chamaremos pelo código <i>MCOMP1</i> será destinado um espaço
             <li>Paradigmas.</li>
         </ol>
     </td>
-    <td style="width:30%;"><center><img src="assets/images/fig11.png" width="60%"></center></td>
+    <td style = "width:30%;"><center><img src = "assets/images/fig00.png" width = "60%"></center></td>
   </tr>
 </table>
 
@@ -43,24 +43,24 @@ Vamos iniciar o curso pela instalação da linguagem de programação e dos ambi
 
 <p align = "justify">
 Com todas as ferramentas instaladas e testadas iniciamos então o curso pelo famoso <i>Hello Word</i>. Antes disso vamos testar o ambiente <b>Anaconda Navigator</b>. Nas nossas aplicações vamos usar a IDE (<i>Integrated Development Environment</i>) notebook <b>Jupyter</b>. Esse ambiente é bastante prático pois fornece suporte para linguagem além de permitir anotações em formato de linguagem de marcação <b>Markdown</b>.<br><br>
-A <a href="#fig12">Figura 1.2</a> apresenta uma imagem da posição da IDE notebook <b>Jupyter</b> na plataforma <b>Anaconda Navigator</b>. 
+A <a href = "#fig11">Figura 1.1</a> apresenta uma imagem da posição da IDE notebook <b>Jupyter</b> na plataforma <b>Anaconda Navigator</b>. 
 </p>
 
-<p align = "left" id = "fig12"><b>Figura 1.2</b> <i>Home</i> da plataforma <b>Anaconda Navigator</b>.</p>
-<center><img src="assets/images/fig12.svg" width="100%"></center>
+<p align = "left" id = "fig11"><b>Figura 1.1</b> <i>Home</i> da plataforma <b>Anaconda Navigator</b>.</p>
+<center><img src = "assets/images/fig11.svg" width = "100%"></center>
 
 <h2>Um pouco sobre o uso da IDE notebook Jupyter</h2>
 
 <p align = "justify">
-O notebook Jupyter é muito parecido com um caderno digital. Ele permite que você faça seus códigos e tambpem comentários usando a linguagem Markdown. Você pode acessar o conteúdo de <a href="http://cursos.leg.ufpr.br/prr/capMarkdown.html" target = "_blank" rel = "noopener noreferrer">Mayer e Zeviani</a> <a href="#ref1">[1]</a> para entender um pouco do funcionamento desta linguagem de marcação. 
+O notebook Jupyter é muito parecido com um caderno digital. Ele permite que você faça seus códigos e tambpem comentários usando a linguagem Markdown. Você pode acessar o conteúdo de <a href="http://cursos.leg.ufpr.br/prr/capMarkdown.html" target = "_blank" rel = "noopener noreferrer">Mayer e Zeviani</a> <a href = "#ref1">[1]</a> para entender um pouco do funcionamento desta linguagem de marcação. 
 </p>
 
 <p align = "justify">
-Ao abrir o ambiente notebook Jupyter podemos criar um novo notebook conforme indicação na <a href="#fig13">Figura 1.3</a> e então poderemos utilizar a linguagem Python.
+Ao abrir o ambiente notebook Jupyter podemos criar um novo notebook conforme indicação na <a href = "#fig12">Figura 1.2</a> e então poderemos utilizar a linguagem Python.
 </p>
 
-<p align = "left" id = "fig13"><b>Figura 1.3</b> Tela inicial notebook Jupyter.</p>
-<center><img src="assets/images/fig13.svg" width="100%"></center>
+<p align = "left" id = "fig12"><b>Figura 1.2</b> Tela inicial notebook Jupyter.</p>
+<center><img src="assets/images/fig12.svg" width="100%"></center>
 
 <h1>Um pouco sobre a linguagem</h1>
 
