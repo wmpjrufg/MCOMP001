@@ -27,7 +27,7 @@ Nesta etapa que chamaremos pelo código <i>MCOMP1</i> será destinado um espaço
             <li>Paradigmas.</li>
         </ol>
     </td>
-    <td style="width:70%;"><center><img src="assets/images/fig11.png" width="60%"></center></td>
+    <td style="width:30%;"><center><img src="assets/images/fig11.png" width="60%"></center></td>
   </tr>
 </table>
 
