@@ -179,6 +179,7 @@ O Python não requer ponto e vírgula (;) no final de cada sentença como muitas
 
 <p align = "justify">
 O Python usa o símbolo <code>#</code> para comentários de linha única e aspas triplas <code>'''</code> ou <code>"""</code> para comentários de várias linhas.
+</p>
 
 ```python
 # Isso é um comentário de linha única
