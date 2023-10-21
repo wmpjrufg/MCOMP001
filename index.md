@@ -73,7 +73,7 @@ Na <a href = "#fig13">Figura 1.3</a> podemos observar o campo <code>In</code> on
 
 O menu <b>File</b> contém informações de abertura, salvamento e <i>download</i> de arquivos. É válientar que o notebook libera <i>download</i> de modelos como .pdf, .html e .py.
 
-O menu <b>Kernell</b> é o pesçao destinado aos comandos de execução do código que em um notebook Jupyter permite a execução célula a célula.
+O menu <b>Kernel</b> é o pesçao destinado aos comandos de execução do código que em um notebook Jupyter permite a execução célula a célula.
 
 <h1>Um pouco sobre a linguagem</h1>
 
@@ -87,15 +87,10 @@ Além disso vale comentar que o Python é uma linguagem de tipagem dinâmica e f
 
 ```python
 valor = 'wanderlei'
-
 print('tipo :', type(valor))
-
 valor = 12
-
 print('tipo :', type(valor))
-
 valor = 12.45
-
 print('tipo :', type(valor))
 ```
 
@@ -112,7 +107,6 @@ Já a tipagem forte diz respeito ao padrão conversão para realizar operações
 ```python
 nome = 'Wanderlei Junior'
 idade = 33
-
 print(nome + " " + idade)
 ```
 
