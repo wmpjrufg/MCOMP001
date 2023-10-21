@@ -31,7 +31,7 @@ Nesta etapa que chamaremos esse curso pelo código <i>MCOMP1</i>. Este espaço s
   </tr>
 </table>
 
-<h1>Instalação ferramenta</h1>
+<h1>Instalação da linguagem e IDE</h1>
 
 <p align = "justify">
 Vamos iniciar o curso pela instalação da linguagem de programação e dos ambientes que que devem/podem ser utilizados ao longo do curso. A lista não é extensa porém vamos fazer uso destas ferramentas para facilitar o nosso desempenho no curso.
