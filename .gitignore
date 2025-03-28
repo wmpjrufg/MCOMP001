@@ -12,3 +12,4 @@ vendor/
 # arquivos gerados nas conferências
 files/notebook/.ipynb_checkpoints/
 files_solution/notebook/.ipynb_checkpoints/
+*.ipynb
