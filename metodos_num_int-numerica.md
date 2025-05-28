@@ -56,5 +56,59 @@ $$
 \end{aligned}
 $$ 
 
-                  Tabela 1 - Tabela dos pesos e pontos de Gauss [1]
+Tabela 1 - Tabela dos pesos e pontos de Gauss [1]
+                  
+  ![image](https://github.com/user-attachments/assets/a2ade9b9-3a69-4ba2-a24c-f4afc4db60bd)
 
+Vamos aplicar essa transformação de domínio na integral 
+
+$$
+\begin{aligned}
+& \iint_0^3 e^{-x^2} d x \\
+\end{aligned}
+ $$ 
+
+
+
+$$
+\begin{aligned}
+& x=\frac{1}{2}(t \cdot(b-a)+a+b)=\frac{1}{2}(t \cdot(3-0)+0+3)=\frac{3}{2}(t+1) \\
+& d x=\frac{1}{2}(b-a) d t=\frac{1}{2}(3-0) d t=\frac{3}{2} d t \\
+& \int_0^3 e^{-x^2} d x=\int_{-1}^1 \frac{3}{2} e^{-\left[\frac{3}{2}(t+1)\right]^2} d t
+\end{aligned}
+ $$ 
+
+
+ Exemplo 1.1: Dada as funções f(x) apresentadas em a e b determinar o valor da integral nos intervalos informados.
+
+
+
+ 
+$$
+f(x) = e^{-x^2}
+$$
+
+ [1,1.5]   a)
+
+
+f(x)=1/x [3,3.6] b)
+
+Resolução do exemplo 1:
+
+
+$$
+\begin{aligned}
+& x=12(t \cdot(b-a)+a+b)=12(t \cdot(1,5-1)+1,5+1)=12 x=\frac{1}{2}(t \cdot(b-a)+a+b)=\frac{1}{2}(0,50 \cdot t+2,50)= \\
+& \frac{1}{4} \cdot t+\frac{5}{4}=\frac{1}{4}(t+5) \\
+& d x=\frac{1}{2}(b-a) d t=\frac{1}{2}(1,5-1) d t=\frac{1}{4} d t \\
+\end{aligned}
+$$
+
+Ponto 1 de Gauss (t_i = -0,57735027, w_i =1) 
+
+$$
+\begin{aligned}
+& \frac{1}{4} \cdot e^{-t_1{ }^2}=\frac{1}{4} \cdot e^{-\left(\frac{1}{4}(-0,57735027+5)\right)^2}=\frac{1}{4} \cdot e^{-(1,1057)^2} \\
+& \frac{1}{4} \cdot e^{-t_1{ }^2}=\frac{1}{4} \cdot e^{-\left(\frac{1}{4}(+0,57735027+5)\right)^2}=\frac{1}{4} \cdot e^{-(1,3943)^2}
+\end{aligned}
+$$
