@@ -112,3 +112,24 @@ $$
 & \frac{1}{4} \cdot e^{-t_1{ }^2}=\frac{1}{4} \cdot e^{-\left(\frac{1}{4}(+0,57735027+5)\right)^2}=\frac{1}{4} \cdot e^{-(1,3943)^2}
 \end{aligned}
 $$
+
+Resolução do exemplo 2:
+
+$$
+\begin{aligned}
+& x=x=\frac{1}{2}(t \cdot(3.6-3)++3+3.6)=12 x=\frac{1}{2}(t \cdot(b-a)+a+b)=\frac{1}{2}(0.6 \cdot t+6.6)= \\
+(0.3\cdot t+3.3) \\
+& d x=\frac{1}{2}(b-a) d t=\frac{1}{2}(0.6) d t=0.3 d t \\
+\end{aligned}
+$$
+
+Ponto 1 de Gauss (t_i = -0,57735027, w_i =1) 
+
+$$
+\begin{gathered}
+0,3 \cdot(-0,57735027+11) \div 10=0,3 \cdot\left(t_1+11\right) \div 10=3,12679492 \\
+f\left(x_1\right)=\frac{1}{3,12679492} \\
+0,3 \cdot(+0,57735027+11) \div 10=3,47320508 \\
+f\left(x_2\right)=\frac{1}{3,47320508}
+\end{gathered}
+$$
