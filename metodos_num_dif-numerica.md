@@ -56,11 +56,17 @@ Para isso vamos considerar o parâmetro h = 0,10, 0,01 e 0,001.
 Aplicando a equação (5) chegamos em:
 
 
-$$\begin{aligned}
-& f^{\prime}(1,80) \cong \frac{\ln (1,80+0,10)-\ln (1,80)}{0,10}=0,540672 \\
-& f^{\prime}(1,80) \cong \frac{\ln (1,80+0,010)-\ln (1,80)}{0,010}=0,554018 \\
-& f^{\prime}(1,80) \cong \frac{\ln (1,80+0,0010)-\ln (1,80)}{0,0010}=0,555401
-\end{aligned}$$ 
+$$
+f^{\prime}(1,80) \cong \frac{\ln (1,80+0,10)-\ln (1,80)}{0,10}=0,540672 
+$$
+
+$$
+f^{\prime}(1,80) \cong \frac{\ln (1,80+0,010)-\ln (1,80)}{0,010}=0,554018 
+$$
+
+$$
+ f^{\prime}(1,80) \cong \frac{\ln (1,80+0,0010)-\ln (1,80)}{0,0010}=0,555401
+$$ 
 
 Exemplo 1.1: Dada as funções f(x) apresentadas em a  e  b determinar o valor da derivada numérica nos pontos informados.
 
