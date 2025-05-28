@@ -72,8 +72,69 @@ f(x)=sen x,x=π⁄3  b)
 
 
 
+Solução a)
 
 
+$$
+f(x) = x^3 \Rightarrow f(3) = 27
+$$
+
+Com h=0,1:
+
+$$
+f(3,1)=(3,1)^3=29,791 
+f^{\prime}(3) \approx \frac{29,791-27}{0,1}=27,91
+$$
+
+Com h=0,01:
+
+
+$$
+f(3,01)=(3,01)^3=27,270901 
+f^{\prime}(3) \approx \frac{27,270901-27}{0,01}=27,0901
+$$
+
+Com h=0,001:
+
+$$
+f(3,001)=(3,001)^3=27,027009 
+f^{\prime}(3) \approx \frac{27,027009-27}{0,001}=27,009
+$$
+
+
+Solução b)
+
+$$
+\[
+f(x)=sen(x) \Rightarrow f\left(\frac{\pi}{3}\right)=sen \left(\frac{\pi}{3}\right)=\frac{\sqrt{3}}{2} \approx 0,8660
+\]
+$$
+
+Com h=0,1:
+
+$$
+x=\frac{\pi}{3}+0,1 \approx 1,1472, \quad sen (1,1472) \approx 0,9096 
+$$
+
+
+$$
+f^{\prime} \approx \frac{0,9096-0,8660}{0,1}=0,436
+$$
+
+Com h=0,01:
+
+$$
+x = 1{,}0572, \quad sen(1{,}0572) \approx 0{,}8699 \\
+f'(x) \approx \frac{0{,}8699 - 0{,}8660}{0{,}01} = 0{,}39
+$$
+
+Com h=0,001:
+
+
+$$
+x = 1{,}0482, \quad sen(1{,}0482) \approx 0{,}8662 \\
+f'(x) \approx \frac{0{,}8662 - 0{,}8660}{0{,}001} = 0{,}2
+$$
 
 
 
