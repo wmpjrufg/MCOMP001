@@ -42,9 +42,6 @@ $$
 
 Onde C_i representa o vetor de pesos e x_i os pontos de Gauss no intervalo [a, b]. Portanto na forma estendida temos:
 
-$$
-\left[ \int_{a}^{b} f(x) \, dx \approx C_1 \cdot f(x_1) + C_2 \cdot f(x_2) + \ldots + C_3 \cdot f(x_3) \right]
-$$
 
 $$
 \[
