@@ -173,3 +173,11 @@ f\left(x_1\right)=\frac{1}{3,12679492}
 f\left(x_2\right)=\frac{1}{3,47320508}
  \]
 $$
+
+
+# REFERÊNCIAS
+
+[1]	Gilat A, Suramanian V. Métodos numéricos para engenheiros e cientistas: uma introdução com aplicações usando o MATLAB. 2008.
+[2]	Chapra SC, Canale RP. Métodos numéricos para engenharia. 2011.
+
+
